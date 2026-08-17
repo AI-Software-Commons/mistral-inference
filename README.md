@@ -1,8 +1,16 @@
 # Mistral Inference
 
-## ⚠️ Archived — no longer maintained
+## Archive Status
 
-This repository is archived and no longer actively maintained. We may launch a new library or a major update in the future if the community needs it or we believe we can bring value to the inference ecosystem.
+This repository is preserved by AI Software Commons.
+
+Original project:
+https://github.com/mistralai/mistral-inference
+
+Upstream status: Archived
+Archive status: Read-only preservation
+
+This repository is not affiliated with or endorsed by Mistral AI.
 
 ---
 
